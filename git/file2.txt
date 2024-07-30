@@ -2,3 +2,5 @@ this is 2nd file
 
 Work in progress
 Added this ine to check git diff command
+
+added this to check git diff --staged 
