@@ -1,3 +1,7 @@
 Hello
 
 making changes in master branch
+
+Changes made in feature-branch
+
+Merge conlict resolved
