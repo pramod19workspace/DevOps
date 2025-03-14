@@ -1,7 +1,11 @@
 Hello
 
+<<<<<<< HEAD
 making changes in master branch
 
 Changes made in feature-branch
 
 Merge conlict resolved
+=======
+checking diff command
+>>>>>>> feature-login
